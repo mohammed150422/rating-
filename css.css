@@ -121,7 +121,7 @@ margin-top:0;
  
 }
 .widt{
-    margin:5% auto;
+    margin:0% auto;
     width: 90%;
     text-align: center;
 }
@@ -130,7 +130,7 @@ margin-top:0;
     background-color: orange;
     border-radius: 20px;
     width: 50px;
-margin:10px auto;
+margin:5px auto;
 text-align: center;
 }
 @media (max-width:680px) {
