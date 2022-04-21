@@ -25,7 +25,7 @@ body{
 .main-section,.main-section2{
     background-color: var(--DarkBlue);
     width: 30%;
-    height: 40vh;
+    height: 45vh;
     border-radius: 5%;
     z-index: 1;
 }
